@@ -120,7 +120,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 - **[pathfinding](https://github.com/aukilabs/pathfinding)** — Hybrid graph + navmesh pathfinding for navigation and robotics
 - **[auki_robotics](https://github.com/aukilabs/auki_robotics)** — Resources for integrating robots
 - **[sparkjs](https://github.com/aukilabs/sparkjs)** — Rendering optimizations for Gaussian splats
-
+ 
 <br />
 
 <a href="#"><img src="assets/GetInvolved.png" alt="Get Involved" width="100%" /></a>
