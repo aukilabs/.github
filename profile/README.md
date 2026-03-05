@@ -43,7 +43,7 @@ To showcase what can be done on the real world web, Auki Labs develops,  maintai
 | [reconstruction-server](https://github.com/aukilabs/reconstruction-server) | Posemesh node for 3D reconstruction of physical spaces |
 | [domain-viewer](https://github.com/aukilabs/domain-viewer) | Visualize posemesh domains in the browser |
 | [pathfinding](https://github.com/aukilabs/pathfinding) | Hybrid graph + navmesh pathfinding for navigation and robotics |
-| [auki_robotics_g1_humanoid_ros2](https://github.com/aukilabs/auki_robotics_g1_humanoid_ros2) | ROS2 packages for Unitree G1 humanoid robot integration |
+| [auki_robotics](https://github.com/aukilabs/auki_robotics) | Resources for integrating robots |
 | [sparkjs](https://github.com/aukilabs/sparkjs) | Rendering optimizations for Gaussian splats |
 
 ---
