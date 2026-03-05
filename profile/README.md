@@ -29,18 +29,21 @@
 
 <table width="100%">
   <tr>
+   <br /><br />
     <td align="center" width="33%">
       <br />
       <p><strong>The Internet of Spaces</strong></p>
       <p>Browse, search and navigate the physical domain<br /><br /></p>
       <img src="assets/spacer.png" width="296" height="0" alt="" />
     </td>
+     <br /><br />
     <td align="center" width="33%">
       <br />
       <p><strong>The Internet of Sensors</strong></p>
       <p>Access additional sensor data relevant to the domain<br /><br /></p>
       <img src="assets/spacer.png" width="296" height="0" alt="" />
     </td>
+     <br /><br />
     <td align="center" width="33%">
       <br />
       <p><strong>The Internet of Actuators</strong></p>
