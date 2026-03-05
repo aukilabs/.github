@@ -1,13 +1,15 @@
 <a href="#"><img src="assets/Header.png" alt="Auki Labs — Building the real world web" width="100%" /></a>
 
 <p align="center">
-  <a href="https://www.auki.com"><img src="assets/Website.png" alt="Website" height="32" /></a>
+  <a href="https://www.auki.com"><img src="assets/Website.png" alt="Website" height="36" /></a>
   &nbsp;
-  <a href="https://www.auki.com/whitepaper"><img src="assets/Whitepaper.png" alt="Whitepaper" height="32" /></a>
+  <a href="https://www.auki.com/whitepaper"><img src="assets/Whitepaper.png" alt="Whitepaper" height="36" /></a>
   &nbsp;
-  <a href="https://x.com/auaboreal"><img src="assets/Followus.png" alt="Follow Us" height="32" /></a>
+  <a href="https://x.com/auaboreal"><img src="assets/Followus.png" alt="Follow Us" height="36" /></a>
   &nbsp;
-  <a href="https://discord.gg/aukilabs"><img src="assets/Discord.png" alt="Discord" height="32" /></a>
+  <a href="https://discord.gg/aukilabs"><img src="assets/Discord.png" alt="Discord" height="36" /></a>
+  &nbsp;
+  <a href="mailto:contact@aukilabs.com"><img src="assets/ContactUs.png" alt="Contact Us" height="36" /></a>
 </p>
 
 <br />
@@ -103,34 +105,10 @@
 
 To showcase what can be done on the real world web, Auki Labs develops, maintains, and commercializes a growing number of reference products.
 
-<table width="100%">
-  <tr>
-    <td width="25%">
-      <br />
-      <p><strong>Cactus</strong></p>
-      <p>Spatial AI platform for retail operations — staff navigation, task tracking, and AR overlays<br /><br /></p>
-      <img src="assets/spacer.png" width="222" height="0" alt="" />
-    </td>
-    <td width="25%">
-      <br />
-      <p><strong>Gotu</strong></p>
-      <p>Indoor navigation for events and property management<br /><br /></p>
-      <img src="assets/spacer.png" width="222" height="0" alt="" />
-    </td>
-    <td width="25%">
-      <br />
-      <p><strong>McKenna</strong></p>
-      <p>Spatial decoration for homes and exhibitions<br /><br /></p>
-      <img src="assets/spacer.png" width="222" height="0" alt="" />
-    </td>
-    <td width="25%">
-      <br />
-      <p><strong>Floorcraft</strong></p>
-      <p>Local multiplayer shared AR experiences<br /><br /></p>
-      <img src="assets/spacer.png" width="222" height="0" alt="" />
-    </td>
-  </tr>
-</table>
+- **[Cactus](https://www.getcactus.ai/)** — Spatial AI platform for retail operations — staff navigation, task tracking, and AR overlays
+- **[Gotu](https://www.auki.com/solutions/software/gotu)** — Indoor navigation for events and property management
+- **[McKenna](https://www.auki.com/solutions/software/mckenna)** — Spatial decoration for homes and exhibitions
+- **[Floorcraft](https://www.auki.com/solutions/software/floorcraft)** — Local multiplayer shared AR experiences
 
 <br />
 
@@ -156,7 +134,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
         Grants of up to <strong>$100,000 USD</strong> in $AUKI tokens are available for builders who create compelling spatial applications on top of the posemesh.
       </p>
       <a href="https://www.auki.com/developers/grants">
-        <img src="assets/ApplyGrant.png" alt="Apply for a Grant" height="32" />
+        <img src="assets/ApplyGrant.png" alt="Apply for a Grant" height="48" />
       </a>
       <br /><br />
       <img src="assets/spacer.png" width="444" height="0" alt="" />
@@ -168,7 +146,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
         The posemesh is open source and we welcome contributions. Issues tagged <a href="https://github.com/aukilabs/posemesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><code>good first issue</code></a> are a great place to start.
       </p>
       <a href="https://www.auki.com/developers/welcome">
-        <img src="assets/Contribute.png" alt="Contribute" height="32" />
+        <img src="assets/Contribute.png" alt="Contribute" height="48" />
       </a>
       <br /><br />
       <img src="assets/spacer.png" width="444" height="0" alt="" />
@@ -191,9 +169,13 @@ Proud members of [Intercognitive.com](https://www.intercognitive.com)
 <br />
 
 <p align="center">
-  <a href="https://www.auki.com"><img src="https://img.shields.io/badge/auki.com-111111?style=for-the-badge&logoColor=white" alt="auki.com" /></a>
+  <a href="https://www.auki.com"><img src="assets/Website.png" alt="Website" height="36" /></a>
   &nbsp;
-  <a href="https://github.com/aukilabs"><img src="https://img.shields.io/badge/GitHub-@aukilabs-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.auki.com/whitepaper"><img src="assets/Whitepaper.png" alt="Whitepaper" height="36" /></a>
   &nbsp;
-  <a href="mailto:contact@aukilabs.com"><img src="https://img.shields.io/badge/Contact_Us-111111?style=for-the-badge&logoColor=white" alt="Contact" /></a>
+  <a href="https://x.com/auaboreal"><img src="assets/Followus.png" alt="Follow Us" height="36" /></a>
+  &nbsp;
+  <a href="https://discord.gg/aukilabs"><img src="assets/Discord.png" alt="Discord" height="36" /></a>
+  &nbsp;
+  <a href="mailto:contact@aukilabs.com"><img src="assets/ContactUs.png" alt="Contact Us" height="36" /></a>
 </p>
