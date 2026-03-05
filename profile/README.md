@@ -30,16 +30,22 @@
 <table width="100%">
   <tr>
     <td align="center" width="33%">
+      <br />
       <p><strong>The Internet of Spaces</strong></p>
       <p>Browse, search and navigate the physical domain</p>
+      <br />
     </td>
     <td align="center" width="33%">
+      <br />
       <p><strong>The Internet of Sensors</strong></p>
       <p>Access additional sensor data relevant to the domain</p>
+      <br />
     </td>
     <td align="center" width="33%">
+      <br />
       <p><strong>The Internet of Actuators</strong></p>
       <p>Give AI agents access to embodiment in the domain</p>
+      <br />
     </td>
   </tr>
 </table>
@@ -130,14 +136,12 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 
 <a href="#"><img src="assets/KeyRepositories.png" alt="Key Repositories" width="100%" /></a>
 
-| Repository                                                                     | Description                                                      |
-| ------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| **[posemesh](https://github.com/aukilabs/posemesh)**                           | Master resource for the open-source posemesh project (Rust, MIT) |
-| **[reconstruction-server](https://github.com/aukilabs/reconstruction-server)** | Posemesh node for 3D reconstruction of physical spaces           |
-| **[domain-viewer](https://github.com/aukilabs/domain-viewer)**                 | Visualize posemesh domains in the browser                        |
-| **[pathfinding](https://github.com/aukilabs/pathfinding)**                     | Hybrid graph + navmesh pathfinding for navigation and robotics   |
-| **[auki_robotics](https://github.com/aukilabs/auki_robotics)**                 | Resources for integrating robots                                 |
-| **[sparkjs](https://github.com/aukilabs/sparkjs)**                             | Rendering optimizations for Gaussian splats                      |
+- **[posemesh](https://github.com/aukilabs/posemesh)** — Master resource for the open-source posemesh project (Rust, MIT)
+- **[reconstruction-server](https://github.com/aukilabs/reconstruction-server)** — Posemesh node for 3D reconstruction of physical spaces
+- **[domain-viewer](https://github.com/aukilabs/domain-viewer)** — Visualize posemesh domains in the browser
+- **[pathfinding](https://github.com/aukilabs/pathfinding)** — Hybrid graph + navmesh pathfinding for navigation and robotics
+- **[auki_robotics](https://github.com/aukilabs/auki_robotics)** — Resources for integrating robots
+- **[sparkjs](https://github.com/aukilabs/sparkjs)** — Rendering optimizations for Gaussian splats
 
 <br />
 
@@ -152,7 +156,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
         Grants of up to <strong>$100,000 USD</strong> in $AUKI tokens are available for builders who create compelling spatial applications on top of the posemesh.
       </p>
       <a href="https://www.auki.com/developers/grants">
-        <img src="https://img.shields.io/badge/Apply_for_a_Grant-fd9e2f?style=for-the-badge&logoColor=111111" alt="Apply for a Grant" />
+        <img src="assets/ApplyGrant.png" alt="Apply for a Grant" height="32" />
       </a>
       <br /><br />
       <img src="assets/spacer.png" width="444" height="0" alt="" />
@@ -164,7 +168,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
         The posemesh is open source and we welcome contributions. Issues tagged <a href="https://github.com/aukilabs/posemesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><code>good first issue</code></a> are a great place to start.
       </p>
       <a href="https://www.auki.com/developers/welcome">
-        <img src="https://img.shields.io/badge/Developer_Docs-dbeded?style=for-the-badge&logoColor=111111" alt="Developer Docs" />
+        <img src="assets/Contribute.png" alt="Contribute" height="32" />
       </a>
       <br /><br />
       <img src="assets/spacer.png" width="444" height="0" alt="" />
