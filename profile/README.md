@@ -30,22 +30,16 @@
 <table width="100%">
   <tr>
     <td align="center" width="33%">
-      <br />
       <p><strong>The Internet of Spaces</strong></p>
-      <p>Browse, search and navigate the physical domain<br /><br /></p>
-       <br /><br />
+      <p>Browse, search and navigate the physical domain</p>
     </td>
     <td align="center" width="33%">
-      <br />
       <p><strong>The Internet of Sensors</strong></p>
-      <p>Access additional sensor data relevant to the domain<br /><br /></p>
-       <br /><br />
+      <p>Access additional sensor data relevant to the domain</p>
     </td>
     <td align="center" width="33%">
-      <br />
       <p><strong>The Internet of Actuators</strong></p>
-      <p>Give AI agents access to embodiment in the domain<br /><br /></p>
-       <br /><br />
+      <p>Give AI agents access to embodiment in the domain</p>
     </td>
   </tr>
 </table>
