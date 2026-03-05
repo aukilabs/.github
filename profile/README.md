@@ -26,21 +26,21 @@
 
 <br />
 
-<img src="assets/Extending.png" alt="Extending the Internet in Three New Dimensions" width="100%" />
+<h2 align="center">Extending the Internet in Three New Dimensions</h2>
 
 <table>
   <tr>
     <td align="center" width="33%">
       <h3>The Internet of Spaces</h3>
-      <p>Browse, search and navigate the physical domain</p>
+      <p>Browse, search and navigate the physical domain<br /><br /></p>
     </td>
     <td align="center" width="33%">
       <h3>The Internet of Sensors</h3>
-      <p>Access additional sensor data relevant to the domain</p>
+      <p>Access additional sensor data relevant to the domain<br /><br /></p>
     </td>
     <td align="center" width="33%">
       <h3>The Internet of Actuators</h3>
-      <p>Give AI agents access to embodiment in the domain</p>
+      <p>Give AI agents access to embodiment in the domain<br /><br /></p>
     </td>
   </tr>
 </table>
@@ -105,19 +105,19 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
   <tr>
     <td width="25%">
       <h3>Cactus</h3>
-      <p>Spatial AI platform for retail operations — staff navigation, task tracking, and AR overlays</p>
+      <p>Spatial AI platform for retail operations — staff navigation, task tracking, and AR overlays<br /><br /></p>
     </td>
     <td width="25%">
       <h3>Gotu</h3>
-      <p>Indoor navigation for events and property management</p>
+      <p>Indoor navigation for events and property management<br /><br /></p>
     </td>
     <td width="25%">
       <h3>McKenna</h3>
-      <p>Spatial decoration for homes and exhibitions</p>
+      <p>Spatial decoration for homes and exhibitions<br /><br /></p>
     </td>
     <td width="25%">
       <h3>Floorcraft</h3>
-      <p>Local multiplayer shared AR experiences</p>
+      <p>Local multiplayer shared AR experiences<br /><br /></p>
     </td>
   </tr>
 </table>
@@ -149,6 +149,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
       <a href="https://www.auki.com/developers/grants">
         <img src="https://img.shields.io/badge/Apply_for_a_Grant-fd9e2f?style=for-the-badge&logoColor=111111" alt="Apply for a Grant" />
       </a>
+      <br /><br />
     </td>
     <td>
       <h3>Contribute</h3>
@@ -158,6 +159,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
       <a href="https://www.auki.com/developers/welcome">
         <img src="https://img.shields.io/badge/Developer_Docs-dbeded?style=for-the-badge&logoColor=111111" alt="Developer Docs" />
       </a>
+      <br /><br />
     </td>
   </tr>
 </table>
