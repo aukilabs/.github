@@ -57,7 +57,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://www.auki.com/whitepaper">
-        <img src="https://pbs.twimg.com/media/HCjMmI9bUAEhiBH?format=jpg&name=large" alt="Whitepaper" width="320" height="180" style="border-radius: 8px;" />
+        <img src="assets/WhitepaperIcon.png" alt="Whitepaper" />
       </a>
       <br /><br />
       <strong>Whitepaper</strong>
@@ -70,7 +70,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://x.com/broodsugar/status/2029098452760846574">
-        <img src="https://pbs.twimg.com/media/HCjMmI9bUAEhiBH?format=jpg&name=large" alt="Strategy" width="320" height="180" style="border-radius: 8px;" />
+        <img src="assets/XIcon.png" alt="Strategy" />
       </a>
       <br /><br />
       <strong>Strategy</strong>
@@ -83,7 +83,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=tn1fZJsfzq8">
-        <img src="https://img.youtube.com/vi/tn1fZJsfzq8/maxresdefault.jpg" alt="SuperAI 2025 Keynote" width="320" height="180" style="border-radius: 8px;" />
+        <img src="assets/YTIcon.png" alt="SuperAI 2025 Keynote" />
       </a>
       <br /><br />
       <strong>Keynote</strong>
