@@ -1,4 +1,4 @@
-<img src="assets/Header.png" alt="Auki Labs — Building the real world web" width="100%" />
+<a href="#"><img src="assets/Header.png" alt="Auki Labs — Building the real world web" width="100%" /></a>
 
 <p align="center">
   <a href="https://www.auki.com"><img src="assets/Website.png" alt="Website" height="32" /></a>
@@ -51,7 +51,7 @@
 
 <br />
 
-<img src="assets/LearnMore.png" alt="Learn More" width="100%" />
+<a href="#"><img src="assets/LearnMore.png" alt="Learn More" width="100%" /></a>
 
 <table>
   <tr>
@@ -99,7 +99,7 @@
 
 <br />
 
-<img src="assets/Products.png" alt="Products" width="100%" />
+<a href="#"><img src="assets/Products.png" alt="Products" width="100%" /></a>
 
 To showcase what can be done on the real world web, Auki Labs develops, maintains, and commercializes a growing number of reference products.
 
@@ -130,7 +130,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 
 <br />
 
-<img src="assets/KeyRepositories.png" alt="Key Repositories" width="100%" />
+<a href="#"><img src="assets/KeyRepositories.png" alt="Key Repositories" width="100%" /></a>
 
 |        | Repository                                                                     | Description                                                      |
 | ------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
@@ -143,7 +143,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 
 <br />
 
-<img src="assets/GetInvolved.png" alt="Get Involved" width="100%" />
+<a href="#"><img src="assets/GetInvolved.png" alt="Get Involved" width="100%" /></a>
 
 <table>
   <tr>
@@ -174,7 +174,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 
 <br />
 
-<img src="assets/About%20Us.png" alt="About Us" width="100%" />
+<a href="#"><img src="assets/About%20Us.png" alt="About Us" width="100%" /></a>
 
 Founded in 2019 and headquartered in Hong Kong, Auki Labs is backed by **Outlier Ventures**, **Animoca Brands**, **Tribe Capital**, and 20+ other investors.
 
