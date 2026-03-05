@@ -67,7 +67,7 @@
       <br />
       <sub>Our vision of the future</sub>
       <br /><br />
-      <img src="assets/spacer.png" width="296" height="0" alt="" />
+      <img src="assets/spacer.png" width="426" height="0" alt="" />
     </td>
     <td align="center" width="33%">
       <a href="https://x.com/broodsugar/status/2029098452760846574">
@@ -78,7 +78,7 @@
       <br />
       <sub>A simple recipe for winning robotics</sub>
       <br /><br />
-      <img src="assets/spacer.png" width="296" height="0" alt="" />
+      <img src="assets/spacer.png" width="426" height="0" alt="" />
     </td>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=tn1fZJsfzq8">
@@ -89,7 +89,7 @@
       <br />
       <sub>Watch our keynote at SuperAI 2025</sub>
       <br /><br />
-      <img src="assets/spacer.png" width="296" height="0" alt="" />
+      <img src="assets/spacer.png" width="426" height="0" alt="" />
     </td>
   </tr>
 </table>
