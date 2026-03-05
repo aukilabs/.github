@@ -59,6 +59,7 @@
 <table width="100%">
   <tr>
     <td align="center" width="33%">
+     <br /><br />
       <a href="https://www.auki.com/whitepaper">
         <img src="assets/WhitepaperIcon.png" alt="Whitepaper" width="64" />
       </a>
@@ -70,6 +71,7 @@
       <img src="assets/spacer.png" width="426" height="0" alt="" />
     </td>
     <td align="center" width="33%">
+     <br /><br />
       <a href="https://x.com/broodsugar/status/2029098452760846574">
         <img src="assets/XIcon.png" alt="Strategy" width="64" />
       </a>
@@ -81,6 +83,7 @@
       <img src="assets/spacer.png" width="426" height="0" alt="" />
     </td>
     <td align="center" width="33%">
+     <br /><br />
       <a href="https://www.youtube.com/watch?v=tn1fZJsfzq8">
         <img src="assets/YTIcon.png" alt="SuperAI 2025 Keynote" width="64" />
       </a>
