@@ -58,9 +58,9 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="33%">
       <a href="https://www.auki.com/whitepaper">
-        <img src="assets/WhitepaperIcon.png" alt="Whitepaper" />
+        <img src="assets/WhitepaperIcon.png" alt="Whitepaper" width="64" />
       </a>
       <br /><br />
       <strong>Whitepaper</strong>
@@ -69,9 +69,9 @@
       <br /><br />
       <img src="assets/spacer.png" width="296" height="0" alt="" />
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="33%">
       <a href="https://x.com/broodsugar/status/2029098452760846574">
-        <img src="assets/XIcon.png" alt="Strategy" />
+        <img src="assets/XIcon.png" alt="Strategy" width="64" />
       </a>
       <br /><br />
       <strong>Strategy</strong>
@@ -80,9 +80,9 @@
       <br /><br />
       <img src="assets/spacer.png" width="296" height="0" alt="" />
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=tn1fZJsfzq8">
-        <img src="assets/YTIcon.png" alt="SuperAI 2025 Keynote" />
+        <img src="assets/YTIcon.png" alt="SuperAI 2025 Keynote" width="64" />
       </a>
       <br /><br />
       <strong>Keynote</strong>
@@ -149,7 +149,6 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 <table width="100%">
   <tr>
     <td>
-      <img src="assets/spacer.png" width="444" height="0" alt="" />
       <br />
       <p><strong>Developer Grants</strong></p>
       <p>
@@ -159,9 +158,9 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
         <img src="https://img.shields.io/badge/Apply_for_a_Grant-fd9e2f?style=for-the-badge&logoColor=111111" alt="Apply for a Grant" />
       </a>
       <br /><br />
+      <img src="assets/spacer.png" width="444" height="0" alt="" />
     </td>
     <td>
-      <img src="assets/spacer.png" width="444" height="0" alt="" />
       <br />
       <p><strong>Contribute</strong></p>
       <p>
@@ -171,6 +170,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
         <img src="https://img.shields.io/badge/Developer_Docs-dbeded?style=for-the-badge&logoColor=111111" alt="Developer Docs" />
       </a>
       <br /><br />
+      <img src="assets/spacer.png" width="444" height="0" alt="" />
     </td>
   </tr>
 </table>
