@@ -13,7 +13,12 @@ The goal is to extend the internet in three new dimensions:
 - **The Internet of Sensors** — access additional sensor data relevant to the domain 
 - **The Internet of Actuators** — give AI agents access to embodiment in the domain
 
-The posemesh is the infrastructure layer for the next generation of physical AI applications.
+The posemesh is the decentralized nervous system of AI.
+
+## Read more:
+- **[Whitepaper](https://www.auki.com/whitepaper)** — Our vision of the future.
+- **[Strategy](https://x.com/broodsugar/status/2029098452760846574)** — a simple recipe for winning robotics. 
+- **[Keynote](https://www.youtube.com/watch?v=tn1fZJsfzq8)** — watch our keynote at SuperAI 2025.
 
 ---
 
