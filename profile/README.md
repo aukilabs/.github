@@ -126,7 +126,9 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 <a href="#"><img src="assets/GetInvolved.png" alt="Get Involved" width="100%" /></a>
 
 <a href="https://www.auki.com/developers/grants"><img src="assets/Grants.png" alt="Apply for a Grant" width="100%" /></a>
+<br />
 <a href="https://github.com/aukilabs/posemesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><img src="assets/Contribute.png" alt="Contribute" width="100%" /></a>
+<br />
 <a href="https://www.auki.com/developers/welcome"><img src="assets/Learn.png" alt="Learn" width="100%" /></a>
 
 <br />
