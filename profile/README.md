@@ -30,22 +30,22 @@
 <table width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="assets/spacer.png" width="296" height="1" alt="" />
       <br />
       <p><strong>The Internet of Spaces</strong></p>
       <p>Browse, search and navigate the physical domain<br /><br /></p>
+      <img src="assets/spacer.png" width="296" height="0" alt="" />
     </td>
     <td align="center" width="33%">
-      <img src="assets/spacer.png" width="296" height="1" alt="" />
       <br />
       <p><strong>The Internet of Sensors</strong></p>
       <p>Access additional sensor data relevant to the domain<br /><br /></p>
+      <img src="assets/spacer.png" width="296" height="0" alt="" />
     </td>
     <td align="center" width="33%">
-      <img src="assets/spacer.png" width="296" height="1" alt="" />
       <br />
       <p><strong>The Internet of Actuators</strong></p>
       <p>Give AI agents access to embodiment in the domain<br /><br /></p>
+      <img src="assets/spacer.png" width="296" height="0" alt="" />
     </td>
   </tr>
 </table>
@@ -58,8 +58,7 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="33%">
-      <img src="assets/spacer.png" width="296" height="1" alt="" />
+    <td align="center" width="20%">
       <a href="https://www.auki.com/whitepaper">
         <img src="assets/WhitepaperIcon.png" alt="Whitepaper" />
       </a>
@@ -68,9 +67,9 @@
       <br />
       <sub>Our vision of the future</sub>
       <br /><br />
+      <img src="assets/spacer.png" width="296" height="0" alt="" />
     </td>
-    <td align="center" width="33%">
-      <img src="assets/spacer.png" width="296" height="1" alt="" />
+    <td align="center" width="20%">
       <a href="https://x.com/broodsugar/status/2029098452760846574">
         <img src="assets/XIcon.png" alt="Strategy" />
       </a>
@@ -79,9 +78,9 @@
       <br />
       <sub>A simple recipe for winning robotics</sub>
       <br /><br />
+      <img src="assets/spacer.png" width="296" height="0" alt="" />
     </td>
-    <td align="center" width="33%">
-      <img src="assets/spacer.png" width="296" height="1" alt="" />
+    <td align="center" width="20%">
       <a href="https://www.youtube.com/watch?v=tn1fZJsfzq8">
         <img src="assets/YTIcon.png" alt="SuperAI 2025 Keynote" />
       </a>
@@ -90,6 +89,7 @@
       <br />
       <sub>Watch our keynote at SuperAI 2025</sub>
       <br /><br />
+      <img src="assets/spacer.png" width="296" height="0" alt="" />
     </td>
   </tr>
 </table>
@@ -103,28 +103,28 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 <table width="100%">
   <tr>
     <td width="25%">
-      <img src="assets/spacer.png" width="222" height="1" alt="" />
       <br />
       <p><strong>Cactus</strong></p>
       <p>Spatial AI platform for retail operations — staff navigation, task tracking, and AR overlays<br /><br /></p>
+      <img src="assets/spacer.png" width="222" height="0" alt="" />
     </td>
     <td width="25%">
-      <img src="assets/spacer.png" width="222" height="1" alt="" />
       <br />
       <p><strong>Gotu</strong></p>
       <p>Indoor navigation for events and property management<br /><br /></p>
+      <img src="assets/spacer.png" width="222" height="0" alt="" />
     </td>
     <td width="25%">
-      <img src="assets/spacer.png" width="222" height="1" alt="" />
       <br />
       <p><strong>McKenna</strong></p>
       <p>Spatial decoration for homes and exhibitions<br /><br /></p>
+      <img src="assets/spacer.png" width="222" height="0" alt="" />
     </td>
     <td width="25%">
-      <img src="assets/spacer.png" width="222" height="1" alt="" />
       <br />
       <p><strong>Floorcraft</strong></p>
       <p>Local multiplayer shared AR experiences<br /><br /></p>
+      <img src="assets/spacer.png" width="222" height="0" alt="" />
     </td>
   </tr>
 </table>
@@ -149,7 +149,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 <table width="100%">
   <tr>
     <td>
-      <img src="assets/spacer.png" width="444" height="1" alt="" />
+      <img src="assets/spacer.png" width="444" height="0" alt="" />
       <br />
       <p><strong>Developer Grants</strong></p>
       <p>
@@ -161,7 +161,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
       <br /><br />
     </td>
     <td>
-      <img src="assets/spacer.png" width="444" height="1" alt="" />
+      <img src="assets/spacer.png" width="444" height="0" alt="" />
       <br />
       <p><strong>Contribute</strong></p>
       <p>
