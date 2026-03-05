@@ -125,34 +125,9 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 
 <a href="#"><img src="assets/GetInvolved.png" alt="Get Involved" width="100%" /></a>
 
-<table width="100%">
-  <tr>
-    <td>
-      <br />
-      <p><strong>Developer Grants</strong></p>
-      <p>
-        Grants of up to <strong>$100,000 USD</strong> in $AUKI tokens are available for builders who create compelling spatial applications on top of the posemesh.
-      </p>
-      <a href="https://www.auki.com/developers/grants">
-        <img src="assets/ApplyGrant.png" alt="Apply for a Grant" height="48" />
-      </a>
-      <br /><br />
-      <img src="assets/spacer.png" width="444" height="0" alt="" />
-    </td>
-    <td>
-      <br />
-      <p><strong>Contribute</strong></p>
-      <p>
-        The posemesh is open source and we welcome contributions. Issues tagged <a href="https://github.com/aukilabs/posemesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><code>good first issue</code></a> are a great place to start.
-      </p>
-      <a href="https://www.auki.com/developers/welcome">
-        <img src="assets/Contribute.png" alt="Contribute" height="48" />
-      </a>
-      <br /><br />
-      <img src="assets/spacer.png" width="444" height="0" alt="" />
-    </td>
-  </tr>
-</table>
+<a href="https://www.auki.com/developers/grants"><img src="assets/Grants.png" alt="Apply for a Grant" width="100%" /></a>
+<a href="https://github.com/aukilabs/posemesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><img src="assets/Contribute.png" alt="Contribute" width="100%" /></a>
+<a href="https://www.auki.com/developers/welcome"><img src="assets/Learn.png" alt="Learn" width="100%" /></a>
 
 <br />
 
