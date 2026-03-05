@@ -1,73 +1,185 @@
-# Auki Labs
+<img src="assets/Header.png" alt="Auki Labs — Building the real world web" width="100%" />
 
-**Building the real world web.**
+<p align="center">
+  <a href="https://www.auki.com"><img src="assets/Website.png" alt="Website" height="32" /></a>
+  &nbsp;
+  <a href="https://www.auki.com/whitepaper"><img src="assets/Whitepaper.png" alt="Whitepaper" height="32" /></a>
+  &nbsp;
+  <a href="https://x.com/auaboreal"><img src="assets/Followus.png" alt="Follow Us" height="32" /></a>
+  &nbsp;
+  <a href="https://discord.gg/aukilabs"><img src="assets/Discord.png" alt="Discord" height="32" /></a>
+</p>
 
-Auki Labs develops the [real world web](https://github.com/aukilabs/posemesh) to make the physical world browsable, searchable and navigable for robots and AI. It is a universal and collaboratively editable spatial context layer, giving robots and other devices the means to build and maintain a shared understanding of the environment, to allow for multi-robot coordination, better HRI and more immersive XR experiences.
+<br />
 
-Based on the open source posemesh protocol, the real world web is a decentralized spatial computing network dividing the physical world into "domains" - shared canonical coordinate systems, spatio-semantic representations and hyperlocal compute resources to help navigate and understand the environment.
+<p align="center">
+  <strong>Auki Labs</strong> develops the <a href="https://github.com/aukilabs/posemesh">real world web</a> to make the physical world browsable, searchable and navigable for robots and AI.
+</p>
 
-The goal is to extend the internet in three new dimensions:
+<p align="center">
+  It is a universal and collaboratively editable spatial context layer, giving robots and other devices the means to build and maintain a shared understanding of the environment — enabling multi-robot coordination, better HRI and more immersive XR experiences.
+</p>
 
+<p align="center">
+  Based on the open source <strong>posemesh protocol</strong>, the real world web is a decentralized spatial computing network dividing the physical world into <em>"domains"</em> — shared canonical coordinate systems, spatio-semantic representations and hyperlocal compute resources to help navigate and understand the environment.
+</p>
 
-- **The Internet of Spaces** — browse, search and navigate the physical domain
-- **The Internet of Sensors** — access additional sensor data relevant to the domain 
-- **The Internet of Actuators** — give AI agents access to embodiment in the domain
+<br />
 
-The posemesh is the decentralized nervous system of AI.
+<img src="assets/Extending.png" alt="Extending the Internet in Three New Dimensions" width="100%" />
 
-## Read more:
-- **[Whitepaper](https://www.auki.com/whitepaper)** — Our vision of the future.
-- **[Strategy](https://x.com/broodsugar/status/2029098452760846574)** — a simple recipe for winning robotics. 
-- **[Keynote](https://www.youtube.com/watch?v=tn1fZJsfzq8)** — watch our keynote at SuperAI 2025.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>The Internet of Spaces</h3>
+      <p>Browse, search and navigate the physical domain</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>The Internet of Sensors</h3>
+      <p>Access additional sensor data relevant to the domain</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>The Internet of Actuators</h3>
+      <p>Give AI agents access to embodiment in the domain</p>
+    </td>
+  </tr>
+</table>
 
----
+<p align="center"><em>The posemesh is the decentralized nervous system of AI.</em></p>
 
-## Products
+<br />
 
-To showcase what can be done on the real world web, Auki Labs develops,  maintains, and commercializes a growing number of reference products.
+<img src="assets/LearnMore.png" alt="Learn More" width="100%" />
 
-| Product | Description |
-|---|---|
-| **Cactus** | Spatial AI platform for retail operations — staff navigation, task tracking, and AR overlays |
-| **Gotu** | Indoor navigation for events and property management |
-| **McKenna** | Spatial decoration for homes and exhibitions |
-| **Floorcraft** | Local multiplayer shared AR experiences |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.auki.com/whitepaper">
+        <img src="https://pbs.twimg.com/media/HCjMmI9bUAEhiBH?format=jpg&name=large" alt="Whitepaper" width="320" height="180" style="border-radius: 8px;" />
+      </a>
+      <br /><br />
+      <strong>Whitepaper</strong>
+      <br />
+      <sub>Our vision of the future</sub>
+      <br /><br />
+      <a href="https://www.auki.com/whitepaper">
+        <img src="https://img.shields.io/badge/Read_Whitepaper-fd9e2f?style=for-the-badge&logoColor=111111" alt="Read Whitepaper" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://x.com/broodsugar/status/2029098452760846574">
+        <img src="https://pbs.twimg.com/media/HCjMmI9bUAEhiBH?format=jpg&name=large" alt="Strategy" width="320" height="180" style="border-radius: 8px;" />
+      </a>
+      <br /><br />
+      <strong>Strategy</strong>
+      <br />
+      <sub>A simple recipe for winning robotics</sub>
+      <br /><br />
+      <a href="https://x.com/broodsugar/status/2029098452760846574">
+        <img src="https://img.shields.io/badge/Read_Strategy-fd9e2f?style=for-the-badge&logoColor=111111" alt="Read Strategy" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/watch?v=tn1fZJsfzq8">
+        <img src="https://img.youtube.com/vi/tn1fZJsfzq8/maxresdefault.jpg" alt="SuperAI 2025 Keynote" width="320" height="180" style="border-radius: 8px;" />
+      </a>
+      <br /><br />
+      <strong>Keynote</strong>
+      <br />
+      <sub>Watch our keynote at SuperAI 2025</sub>
+      <br /><br />
+      <a href="https://www.youtube.com/watch?v=tn1fZJsfzq8">
+        <img src="https://img.shields.io/badge/▶_Watch_Keynote-fd9e2f?style=for-the-badge&logoColor=111111" alt="Watch Keynote" />
+      </a>
+    </td>
+  </tr>
+</table>
 
----
+<br />
 
-## Key Repositories
+<img src="assets/Products.png" alt="Products" width="100%" />
 
-| Repository | Description |
-|---|---|
-| [posemesh](https://github.com/aukilabs/posemesh) | Master resource for the open-source posemesh project (Rust, MIT) |
-| [reconstruction-server](https://github.com/aukilabs/reconstruction-server) | Posemesh node for 3D reconstruction of physical spaces |
-| [domain-viewer](https://github.com/aukilabs/domain-viewer) | Visualize posemesh domains in the browser |
-| [pathfinding](https://github.com/aukilabs/pathfinding) | Hybrid graph + navmesh pathfinding for navigation and robotics |
-| [auki_robotics](https://github.com/aukilabs/auki_robotics) | Resources for integrating robots |
-| [sparkjs](https://github.com/aukilabs/sparkjs) | Rendering optimizations for Gaussian splats |
+To showcase what can be done on the real world web, Auki Labs develops, maintains, and commercializes a growing number of reference products.
 
----
+<table>
+  <tr>
+    <td width="25%">
+      <h3>Cactus</h3>
+      <p>Spatial AI platform for retail operations — staff navigation, task tracking, and AR overlays</p>
+    </td>
+    <td width="25%">
+      <h3>Gotu</h3>
+      <p>Indoor navigation for events and property management</p>
+    </td>
+    <td width="25%">
+      <h3>McKenna</h3>
+      <p>Spatial decoration for homes and exhibitions</p>
+    </td>
+    <td width="25%">
+      <h3>Floorcraft</h3>
+      <p>Local multiplayer shared AR experiences</p>
+    </td>
+  </tr>
+</table>
 
-## Get Involved
+<br />
 
-The posemesh is open source and we welcome contributions. Issues tagged [`good first issue`](https://github.com/aukilabs/posemesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) are a great place to start.
+<img src="assets/KeyRepositories.png" alt="Key Repositories" width="100%" />
 
-Developer grants of up to **$100,000 USD** in $AUKI tokens are available for builders who create compelling spatial applications on top of the posemesh.
+|        | Repository                                                                     | Description                                                      |
+| ------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| **🦀** | **[posemesh](https://github.com/aukilabs/posemesh)**                           | Master resource for the open-source posemesh project (Rust, MIT) |
+| **🏗️** | **[reconstruction-server](https://github.com/aukilabs/reconstruction-server)** | Posemesh node for 3D reconstruction of physical spaces           |
+| **🌐** | **[domain-viewer](https://github.com/aukilabs/domain-viewer)**                 | Visualize posemesh domains in the browser                        |
+| **🧭** | **[pathfinding](https://github.com/aukilabs/pathfinding)**                     | Hybrid graph + navmesh pathfinding for navigation and robotics   |
+| **🤖** | **[auki_robotics](https://github.com/aukilabs/auki_robotics)**                 | Resources for integrating robots                                 |
+| **✨** | **[sparkjs](https://github.com/aukilabs/sparkjs)**                             | Rendering optimizations for Gaussian splats                      |
 
-- [Developer documentation](https://www.auki.com/developers/welcome)
-- [Community & grants](https://www.auki.com/developers/grants)
-- [contact@aukilabs.com](mailto:contact@aukilabs.com)
+<br />
 
----
+<img src="assets/GetInvolved.png" alt="Get Involved" width="100%" />
 
-## About Us
+<table>
+  <tr>
+    <td>
+      <h3>Developer Grants</h3>
+      <p>
+        Grants of up to <strong>$100,000 USD</strong> in $AUKI tokens are available for builders who create compelling spatial applications on top of the posemesh.
+      </p>
+      <a href="https://www.auki.com/developers/grants">
+        <img src="https://img.shields.io/badge/Apply_for_a_Grant-fd9e2f?style=for-the-badge&logoColor=111111" alt="Apply for a Grant" />
+      </a>
+    </td>
+    <td>
+      <h3>Contribute</h3>
+      <p>
+        The posemesh is open source and we welcome contributions. Issues tagged <a href="https://github.com/aukilabs/posemesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><code>good first issue</code></a> are a great place to start.
+      </p>
+      <a href="https://www.auki.com/developers/welcome">
+        <img src="https://img.shields.io/badge/Developer_Docs-dbeded?style=for-the-badge&logoColor=111111" alt="Developer Docs" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-Founded in 2019 and headquartered in Hong Kong, Auki Labs is backed by Outlier Ventures, Animoca Brands, Tribe Capital, and 20+ other investors. 
+<br />
 
-Our mission is to increase civilization's intercognitive capacity: our ability to think, experience and solve problems together with each other and AI.
+<img src="assets/About%20Us.png" alt="About Us" width="100%" />
+
+Founded in 2019 and headquartered in Hong Kong, Auki Labs is backed by **Outlier Ventures**, **Animoca Brands**, **Tribe Capital**, and 20+ other investors.
+
+> _Our mission is to increase civilization's intercognitive capacity: our ability to think, experience and solve problems together with each other and AI._
 
 We are a team that believes in radical sincerity, thinking out loud, and training for the Olympics — a shorthand for bringing extraordinary discipline to an ambitious vision.
 
 Proud members of [Intercognitive.com](https://www.intercognitive.com)
 
-[auki.com](https://www.auki.com) &nbsp;·&nbsp; [@aukilabs](https://github.com/aukilabs)
+<br />
+
+<p align="center">
+  <a href="https://www.auki.com"><img src="https://img.shields.io/badge/auki.com-111111?style=for-the-badge&logoColor=white" alt="auki.com" /></a>
+  &nbsp;
+  <a href="https://github.com/aukilabs"><img src="https://img.shields.io/badge/GitHub-@aukilabs-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  &nbsp;
+  <a href="mailto:contact@aukilabs.com"><img src="https://img.shields.io/badge/Contact_Us-111111?style=for-the-badge&logoColor=white" alt="Contact" /></a>
+</p>
