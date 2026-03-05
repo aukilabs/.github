@@ -24,21 +24,23 @@
   Based on the open source <strong>posemesh protocol</strong>, the real world web is a decentralized spatial computing network dividing the physical world into <em>"domains"</em> — shared canonical coordinate systems, spatio-semantic representations and hyperlocal compute resources to help navigate and understand the environment.
 </p>
 
-<br />
 
-<h2 align="center">Extending the Internet in Three New Dimensions</h2>
+<h3 align="center">Extending the Internet in Three New Dimensions</h3>
 
 <table>
   <tr>
     <td align="center" width="33%">
+      <br />
       <p><strong>The Internet of Spaces</strong></p>
       <p>Browse, search and navigate the physical domain<br /><br /></p>
     </td>
     <td align="center" width="33%">
+      <br />
       <p><strong>The Internet of Sensors</strong></p>
       <p>Access additional sensor data relevant to the domain<br /><br /></p>
     </td>
     <td align="center" width="33%">
+      <br />
       <p><strong>The Internet of Actuators</strong></p>
       <p>Give AI agents access to embodiment in the domain<br /><br /></p>
     </td>
@@ -104,18 +106,22 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 <table>
   <tr>
     <td width="25%">
+      <br />
       <p><strong>Cactus</strong></p>
       <p>Spatial AI platform for retail operations — staff navigation, task tracking, and AR overlays<br /><br /></p>
     </td>
     <td width="25%">
+      <br />
       <p><strong>Gotu</strong></p>
       <p>Indoor navigation for events and property management<br /><br /></p>
     </td>
     <td width="25%">
+      <br />
       <p><strong>McKenna</strong></p>
       <p>Spatial decoration for homes and exhibitions<br /><br /></p>
     </td>
     <td width="25%">
+      <br />
       <p><strong>Floorcraft</strong></p>
       <p>Local multiplayer shared AR experiences<br /><br /></p>
     </td>
@@ -142,6 +148,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 <table>
   <tr>
     <td>
+      <br />
       <p><strong>Developer Grants</strong></p>
       <p>
         Grants of up to <strong>$100,000 USD</strong> in $AUKI tokens are available for builders who create compelling spatial applications on top of the posemesh.
@@ -152,6 +159,7 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
       <br /><br />
     </td>
     <td>
+      <br />
       <p><strong>Contribute</strong></p>
       <p>
         The posemesh is open source and we welcome contributions. Issues tagged <a href="https://github.com/aukilabs/posemesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><code>good first issue</code></a> are a great place to start.
