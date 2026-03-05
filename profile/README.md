@@ -27,7 +27,7 @@
 
 <h3 align="center">Extending the Internet in Three New Dimensions</h3>
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%">
       <br />
@@ -53,7 +53,7 @@
 
 <a href="#"><img src="assets/LearnMore.png" alt="Learn More" width="100%" /></a>
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%">
       <a href="https://www.auki.com/whitepaper">
@@ -64,9 +64,6 @@
       <br />
       <sub>Our vision of the future</sub>
       <br /><br />
-      <a href="https://www.auki.com/whitepaper">
-        <img src="https://img.shields.io/badge/Read_Whitepaper-fd9e2f?style=for-the-badge&logoColor=111111" alt="Read Whitepaper" />
-      </a>
     </td>
     <td align="center" width="33%">
       <a href="https://x.com/broodsugar/status/2029098452760846574">
@@ -77,9 +74,6 @@
       <br />
       <sub>A simple recipe for winning robotics</sub>
       <br /><br />
-      <a href="https://x.com/broodsugar/status/2029098452760846574">
-        <img src="https://img.shields.io/badge/Read_Strategy-fd9e2f?style=for-the-badge&logoColor=111111" alt="Read Strategy" />
-      </a>
     </td>
     <td align="center" width="33%">
       <a href="https://www.youtube.com/watch?v=tn1fZJsfzq8">
@@ -90,9 +84,6 @@
       <br />
       <sub>Watch our keynote at SuperAI 2025</sub>
       <br /><br />
-      <a href="https://www.youtube.com/watch?v=tn1fZJsfzq8">
-        <img src="https://img.shields.io/badge/▶_Watch_Keynote-fd9e2f?style=for-the-badge&logoColor=111111" alt="Watch Keynote" />
-      </a>
     </td>
   </tr>
 </table>
@@ -103,7 +94,7 @@
 
 To showcase what can be done on the real world web, Auki Labs develops, maintains, and commercializes a growing number of reference products.
 
-<table>
+<table width="100%">
   <tr>
     <td width="25%">
       <br />
@@ -132,20 +123,20 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 
 <a href="#"><img src="assets/KeyRepositories.png" alt="Key Repositories" width="100%" /></a>
 
-|        | Repository                                                                     | Description                                                      |
-| ------ | ------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| **🦀** | **[posemesh](https://github.com/aukilabs/posemesh)**                           | Master resource for the open-source posemesh project (Rust, MIT) |
-| **🏗️** | **[reconstruction-server](https://github.com/aukilabs/reconstruction-server)** | Posemesh node for 3D reconstruction of physical spaces           |
-| **🌐** | **[domain-viewer](https://github.com/aukilabs/domain-viewer)**                 | Visualize posemesh domains in the browser                        |
-| **🧭** | **[pathfinding](https://github.com/aukilabs/pathfinding)**                     | Hybrid graph + navmesh pathfinding for navigation and robotics   |
-| **🤖** | **[auki_robotics](https://github.com/aukilabs/auki_robotics)**                 | Resources for integrating robots                                 |
-| **✨** | **[sparkjs](https://github.com/aukilabs/sparkjs)**                             | Rendering optimizations for Gaussian splats                      |
+| Repository                                                                     | Description                                                      |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| **[posemesh](https://github.com/aukilabs/posemesh)**                           | Master resource for the open-source posemesh project (Rust, MIT) |
+| **[reconstruction-server](https://github.com/aukilabs/reconstruction-server)** | Posemesh node for 3D reconstruction of physical spaces           |
+| **[domain-viewer](https://github.com/aukilabs/domain-viewer)**                 | Visualize posemesh domains in the browser                        |
+| **[pathfinding](https://github.com/aukilabs/pathfinding)**                     | Hybrid graph + navmesh pathfinding for navigation and robotics   |
+| **[auki_robotics](https://github.com/aukilabs/auki_robotics)**                 | Resources for integrating robots                                 |
+| **[sparkjs](https://github.com/aukilabs/sparkjs)**                             | Rendering optimizations for Gaussian splats                      |
 
 <br />
 
 <a href="#"><img src="assets/GetInvolved.png" alt="Get Involved" width="100%" /></a>
 
-<table>
+<table width="100%">
   <tr>
     <td>
       <br />
