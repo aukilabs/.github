@@ -1,15 +1,39 @@
-<a href="#"><img src="assets/Header.png" alt="Auki Labs — Building the real world web" width="100%" /></a>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/Header.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/HeaderWhite.png" />
+  <img src="assets/HeaderWhite.png" alt="Auki Labs — Building the real world web" width="100%" />
+</picture></a>
 
 <p align="center">
-  <a href="https://www.auki.com"><img src="assets/Website.png" alt="Website" height="36" /></a>
+  <a href="https://www.auki.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/Website.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/WebsiteWhite.png" />
+    <img src="assets/WebsiteWhite.png" alt="Website" height="36" />
+  </picture></a>
   &nbsp;
-  <a href="https://www.auki.com/whitepaper"><img src="assets/Whitepaper.png" alt="Whitepaper" height="36" /></a>
+  <a href="https://www.auki.com/whitepaper"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/Whitepaper.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/WhitepaperWhite.png" />
+    <img src="assets/WhitepaperWhite.png" alt="Whitepaper" height="36" />
+  </picture></a>
   &nbsp;
-  <a href="https://x.com/auaboreal"><img src="assets/Followus.png" alt="Follow Us" height="36" /></a>
+  <a href="https://x.com/auaboreal"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/Followus.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/FollowusWhite.png" />
+    <img src="assets/FollowusWhite.png" alt="Follow Us" height="36" />
+  </picture></a>
   &nbsp;
-  <a href="https://discord.gg/aukilabs"><img src="assets/Discord.png" alt="Discord" height="36" /></a>
+  <a href="https://discord.gg/aukilabs"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/Discord.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/DiscordWhite.png" />
+    <img src="assets/DiscordWhite.png" alt="Discord" height="36" />
+  </picture></a>
   &nbsp;
-  <a href="mailto:contact@aukilabs.com"><img src="assets/ContactUs.png" alt="Contact Us" height="36" /></a>
+  <a href="mailto:contact@aukilabs.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ContactUs.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/ContactUsWhite.png" />
+    <img src="assets/ContactUsWhite.png" alt="Contact Us" height="36" />
+  </picture></a>
 </p>
 
 <br />
@@ -56,7 +80,11 @@
 
 <br />
 
-<a href="#"><img src="assets/LearnMore.png" alt="Learn More" width="100%" /></a>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/LearnMore.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/LearnMoreWhite.png" />
+  <img src="assets/LearnMoreWhite.png" alt="Learn More" width="100%" />
+</picture></a>
 
 <table width="100%">
   <tr>
@@ -101,7 +129,11 @@
 
 <br />
 
-<a href="#"><img src="assets/Products.png" alt="Products" width="100%" /></a>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/Products.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/ProductsWhite.png" />
+  <img src="assets/ProductsWhite.png" alt="Products" width="100%" />
+</picture></a>
 
 To showcase what can be done on the real world web, Auki Labs develops, maintains, and commercializes a growing number of reference products.
 
@@ -112,7 +144,11 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 
 <br />
 
-<a href="#"><img src="assets/KeyRepositories.png" alt="Key Repositories" width="100%" /></a>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/KeyRepositories.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/KeyRepositoriesWhite.png" />
+  <img src="assets/KeyRepositoriesWhite.png" alt="Key Repositories" width="100%" />
+</picture></a>
 
 - **[posemesh](https://github.com/aukilabs/posemesh)** — Master resource for the open-source posemesh project (Rust, MIT)
 - **[reconstruction-server](https://github.com/aukilabs/reconstruction-server)** — Posemesh node for 3D reconstruction of physical spaces
@@ -120,20 +156,40 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 - **[pathfinding](https://github.com/aukilabs/pathfinding)** — Hybrid graph + navmesh pathfinding for navigation and robotics
 - **[auki_robotics](https://github.com/aukilabs/auki_robotics)** — Resources for integrating robots
 - **[sparkjs](https://github.com/aukilabs/sparkjs)** — Rendering optimizations for Gaussian splats
- 
-<br />
-
-<a href="#"><img src="assets/GetInvolved.png" alt="Get Involved" width="100%" /></a>
-
-<a href="https://www.auki.com/developers/grants"><img src="assets/Grants.png" alt="Apply for a Grant" width="100%" /></a>
-
-<a href="https://github.com/aukilabs/posemesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><img src="assets/Contribute.png" alt="Contribute" width="100%" /></a>
-
-<a href="https://www.auki.com/developers/welcome"><img src="assets/Learn.png" alt="Learn" width="100%" /></a>
 
 <br />
 
-<a href="#"><img src="assets/About%20Us.png" alt="About Us" width="100%" /></a>
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/GetInvolved.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/GetInvolvedWhite.png" />
+  <img src="assets/GetInvolvedWhite.png" alt="Get Involved" width="100%" />
+</picture></a>
+
+<a href="https://www.auki.com/developers/grants"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/Grants.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/GrantsWhite.png" />
+  <img src="assets/GrantsWhite.png" alt="Apply for a Grant" width="100%" />
+</picture></a>
+
+<a href="https://github.com/aukilabs/posemesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/Contribute.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/ContributeWhite.png" />
+  <img src="assets/ContributeWhite.png" alt="Contribute" width="100%" />
+</picture></a>
+
+<a href="https://www.auki.com/developers/welcome"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/Learn.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/LearnWhite.png" />
+  <img src="assets/LearnWhite.png" alt="Learn" width="100%" />
+</picture></a>
+
+<br />
+
+<a href="#"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/About%20Us.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/AboutUsWhite.png" />
+  <img src="assets/AboutUsWhite.png" alt="About Us" width="100%" />
+</picture></a>
 
 Founded in 2019 and headquartered in Hong Kong, Auki Labs is backed by **Outlier Ventures**, **Animoca Brands**, **Tribe Capital**, and 20+ other investors.
 
@@ -146,13 +202,33 @@ Proud members of [Intercognitive.com](https://www.intercognitive.com)
 <br />
 
 <p align="center">
-  <a href="https://www.auki.com"><img src="assets/Website.png" alt="Website" height="36" /></a>
+  <a href="https://www.auki.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/Website.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/WebsiteWhite.png" />
+    <img src="assets/WebsiteWhite.png" alt="Website" height="36" />
+  </picture></a>
   &nbsp;
-  <a href="https://www.auki.com/whitepaper"><img src="assets/Whitepaper.png" alt="Whitepaper" height="36" /></a>
+  <a href="https://www.auki.com/whitepaper"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/Whitepaper.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/WhitepaperWhite.png" />
+    <img src="assets/WhitepaperWhite.png" alt="Whitepaper" height="36" />
+  </picture></a>
   &nbsp;
-  <a href="https://x.com/auaboreal"><img src="assets/Followus.png" alt="Follow Us" height="36" /></a>
+  <a href="https://x.com/auaboreal"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/Followus.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/FollowusWhite.png" />
+    <img src="assets/FollowusWhite.png" alt="Follow Us" height="36" />
+  </picture></a>
   &nbsp;
-  <a href="https://discord.gg/aukilabs"><img src="assets/Discord.png" alt="Discord" height="36" /></a>
+  <a href="https://discord.gg/aukilabs"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/Discord.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/DiscordWhite.png" />
+    <img src="assets/DiscordWhite.png" alt="Discord" height="36" />
+  </picture></a>
   &nbsp;
-  <a href="mailto:contact@aukilabs.com"><img src="assets/ContactUs.png" alt="Contact Us" height="36" /></a>
+  <a href="mailto:contact@aukilabs.com"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ContactUs.png" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/ContactUsWhite.png" />
+    <img src="assets/ContactUsWhite.png" alt="Contact Us" height="36" />
+  </picture></a>
 </p>
