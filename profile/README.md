@@ -70,4 +70,4 @@ We are a team that believes in radical sincerity, thinking out loud, and trainin
 
 Proud members of [Intercognitive.com](https://www.intercognitive.com)
 
-[auki.com](https://www.auki.com) &nbsp;·&nbsp; [@aukilabs](https://github.com/aukilabs)
+[auki.com](https://www.auki.com) &nbsp;·&nbsp; 
