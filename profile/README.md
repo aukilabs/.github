@@ -1,8 +1,8 @@
-<a href="#"><picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/Header.png" />
   <source media="(prefers-color-scheme: light)" srcset="assets/HeaderWhite.png" />
   <img src="assets/HeaderWhite.png" alt="Auki Labs — Building the real world web" width="100%" />
-</picture></a>
+</picture>
 
 <p align="center">
   <a href="https://www.auki.com"><picture>
@@ -80,11 +80,11 @@
 
 <br />
 
-<a href="#"><picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/LearnMore.png" />
   <source media="(prefers-color-scheme: light)" srcset="assets/LearnMoreWhite.png" />
   <img src="assets/LearnMoreWhite.png" alt="Learn More" width="100%" />
-</picture></a>
+</picture>
 
 <table width="100%">
   <tr>
@@ -129,11 +129,11 @@
 
 <br />
 
-<a href="#"><picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/Products.png" />
   <source media="(prefers-color-scheme: light)" srcset="assets/ProductsWhite.png" />
   <img src="assets/ProductsWhite.png" alt="Products" width="100%" />
-</picture></a>
+</picture>
 
 To showcase what can be done on the real world web, Auki Labs develops, maintains, and commercializes a growing number of reference products.
 
@@ -144,11 +144,11 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 
 <br />
 
-<a href="#"><picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/KeyRepositories.png" />
   <source media="(prefers-color-scheme: light)" srcset="assets/KeyRepositoriesWhite.png" />
   <img src="assets/KeyRepositoriesWhite.png" alt="Key Repositories" width="100%" />
-</picture></a>
+</picture>
 
 - **[posemesh](https://github.com/aukilabs/posemesh)** — Master resource for the open-source posemesh project (Rust, MIT)
 - **[reconstruction-server](https://github.com/aukilabs/reconstruction-server)** — Posemesh node for 3D reconstruction of physical spaces
@@ -159,11 +159,11 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 
 <br />
 
-<a href="#"><picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/GetInvolved.png" />
   <source media="(prefers-color-scheme: light)" srcset="assets/GetInvolvedWhite.png" />
   <img src="assets/GetInvolvedWhite.png" alt="Get Involved" width="100%" />
-</picture></a>
+</picture>
 
 <a href="https://www.auki.com/developers/grants"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/Grants.png" />
@@ -185,11 +185,11 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
 
 <br />
 
-<a href="#"><picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/About%20Us.png" />
   <source media="(prefers-color-scheme: light)" srcset="assets/AboutUsWhite.png" />
   <img src="assets/AboutUsWhite.png" alt="About Us" width="100%" />
-</picture></a>
+</picture>
 
 Founded in 2019 and headquartered in Hong Kong, Auki Labs is backed by **Outlier Ventures**, **Animoca Brands**, **Tribe Capital**, and 20+ other investors.
 
