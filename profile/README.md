@@ -5,35 +5,15 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.auki.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/Website.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/WebsiteWhite.png" />
-    <img src="assets/WebsiteWhite.png" alt="Website" height="36" />
-  </picture></a>
+  <a href="https://www.auki.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/Website.png" /><source media="(prefers-color-scheme: light)" srcset="assets/WebsiteWhite.png" /><img src="assets/WebsiteWhite.png" alt="Website" height="36" /></picture></a>
   &nbsp;
-  <a href="https://www.auki.com/whitepaper"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/Whitepaper.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/WhitepaperWhite.png" />
-    <img src="assets/WhitepaperWhite.png" alt="Whitepaper" height="36" />
-  </picture></a>
+  <a href="https://www.auki.com/whitepaper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/Whitepaper.png" /><source media="(prefers-color-scheme: light)" srcset="assets/WhitepaperWhite.png" /><img src="assets/WhitepaperWhite.png" alt="Whitepaper" height="36" /></picture></a>
   &nbsp;
-  <a href="https://x.com/auaboreal"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/Followus.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/FollowusWhite.png" />
-    <img src="assets/FollowusWhite.png" alt="Follow Us" height="36" />
-  </picture></a>
+  <a href="https://x.com/auaboreal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/Followus.png" /><source media="(prefers-color-scheme: light)" srcset="assets/FollowusWhite.png" /><img src="assets/FollowusWhite.png" alt="Follow Us" height="36" /></picture></a>
   &nbsp;
-  <a href="https://discord.gg/aukilabs"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/Discord.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/DiscordWhite.png" />
-    <img src="assets/DiscordWhite.png" alt="Discord" height="36" />
-  </picture></a>
+  <a href="https://discord.gg/aukilabs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/Discord.png" /><source media="(prefers-color-scheme: light)" srcset="assets/DiscordWhite.png" /><img src="assets/DiscordWhite.png" alt="Discord" height="36" /></picture></a>
   &nbsp;
-  <a href="mailto:contact@aukilabs.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ContactUs.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/ContactUsWhite.png" />
-    <img src="assets/ContactUsWhite.png" alt="Contact Us" height="36" />
-  </picture></a>
+  <a href="mailto:contact@aukilabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ContactUs.png" /><source media="(prefers-color-scheme: light)" srcset="assets/ContactUsWhite.png" /><img src="assets/ContactUsWhite.png" alt="Contact Us" height="36" /></picture></a>
 </p>
 
 <br />
@@ -165,23 +145,11 @@ To showcase what can be done on the real world web, Auki Labs develops, maintain
   <img src="assets/GetInvolvedWhite.png" alt="Get Involved" width="100%" />
 </picture>
 
-<a href="https://www.auki.com/developers/grants"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/Grants.png" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/GrantsWhite.png" />
-  <img src="assets/GrantsWhite.png" alt="Apply for a Grant" width="100%" />
-</picture></a>
+<a href="https://www.auki.com/developers/grants"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/Grants.png" /><source media="(prefers-color-scheme: light)" srcset="assets/GrantsWhite.png" /><img src="assets/GrantsWhite.png" alt="Apply for a Grant" width="100%" /></picture></a>
 
-<a href="https://github.com/aukilabs/posemesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/Contribute.png" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/ContributeWhite.png" />
-  <img src="assets/ContributeWhite.png" alt="Contribute" width="100%" />
-</picture></a>
+<a href="https://github.com/aukilabs/posemesh/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/Contribute.png" /><source media="(prefers-color-scheme: light)" srcset="assets/ContributeWhite.png" /><img src="assets/ContributeWhite.png" alt="Contribute" width="100%" /></picture></a>
 
-<a href="https://www.auki.com/developers/welcome"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/Learn.png" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/LearnWhite.png" />
-  <img src="assets/LearnWhite.png" alt="Learn" width="100%" />
-</picture></a>
+<a href="https://www.auki.com/developers/welcome"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/Learn.png" /><source media="(prefers-color-scheme: light)" srcset="assets/LearnWhite.png" /><img src="assets/LearnWhite.png" alt="Learn" width="100%" /></picture></a>
 
 <br />
 
@@ -202,33 +170,13 @@ Proud members of [Intercognitive.com](https://www.intercognitive.com)
 <br />
 
 <p align="center">
-  <a href="https://www.auki.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/Website.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/WebsiteWhite.png" />
-    <img src="assets/WebsiteWhite.png" alt="Website" height="36" />
-  </picture></a>
+  <a href="https://www.auki.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/Website.png" /><source media="(prefers-color-scheme: light)" srcset="assets/WebsiteWhite.png" /><img src="assets/WebsiteWhite.png" alt="Website" height="36" /></picture></a>
   &nbsp;
-  <a href="https://www.auki.com/whitepaper"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/Whitepaper.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/WhitepaperWhite.png" />
-    <img src="assets/WhitepaperWhite.png" alt="Whitepaper" height="36" />
-  </picture></a>
+  <a href="https://www.auki.com/whitepaper"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/Whitepaper.png" /><source media="(prefers-color-scheme: light)" srcset="assets/WhitepaperWhite.png" /><img src="assets/WhitepaperWhite.png" alt="Whitepaper" height="36" /></picture></a>
   &nbsp;
-  <a href="https://x.com/auaboreal"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/Followus.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/FollowusWhite.png" />
-    <img src="assets/FollowusWhite.png" alt="Follow Us" height="36" />
-  </picture></a>
+  <a href="https://x.com/auaboreal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/Followus.png" /><source media="(prefers-color-scheme: light)" srcset="assets/FollowusWhite.png" /><img src="assets/FollowusWhite.png" alt="Follow Us" height="36" /></picture></a>
   &nbsp;
-  <a href="https://discord.gg/aukilabs"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/Discord.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/DiscordWhite.png" />
-    <img src="assets/DiscordWhite.png" alt="Discord" height="36" />
-  </picture></a>
+  <a href="https://discord.gg/aukilabs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/Discord.png" /><source media="(prefers-color-scheme: light)" srcset="assets/DiscordWhite.png" /><img src="assets/DiscordWhite.png" alt="Discord" height="36" /></picture></a>
   &nbsp;
-  <a href="mailto:contact@aukilabs.com"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ContactUs.png" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/ContactUsWhite.png" />
-    <img src="assets/ContactUsWhite.png" alt="Contact Us" height="36" />
-  </picture></a>
+  <a href="mailto:contact@aukilabs.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ContactUs.png" /><source media="(prefers-color-scheme: light)" srcset="assets/ContactUsWhite.png" /><img src="assets/ContactUsWhite.png" alt="Contact Us" height="36" /></picture></a>
 </p>
